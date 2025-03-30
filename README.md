@@ -20,6 +20,11 @@ Recuerda que en los chats con *Logic Tutor* las expresiones booleanas emplean la
 - **OR** <- A+B (A OR B).
 - **XOR** <- A^B (A XOR B).
 
+> ##### Limitaciones
+> Logic Tutor puede no ser  capaz de analizar los diagramas lógicos complejos creados con Logism, ya que no ha sido entrenado para ello. Por desgracia, tampoco
+> podrá hacer la síntesis de circuitos en formato Logisim. Estas son limitaciones derivadas de la singularidad de Logisim. Si se desea realizar la síntesis de
+> circuitos asistida por Logic Tutor es recomendable solicitar el uso de formatos de salida estandarizados como VHDL.
+
 -----
 #### Fe de erratas
 En este mismo sitio se incluye la lista de errores detectados en las obras anteriores. Estas erratas se organizan en dos directorios en los que se incluyen la lista y las hojas que habría que sustituir en la obra.
