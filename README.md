@@ -15,10 +15,10 @@ De este modo, existen dos directorios del repositorio correspondientes a cada un
 - [**Logic Tutor**](https://chatgpt.com/g/g-67e8fed02ae48191b71e082de0295710-logic-tutor) es un tutor personalizado de lógica digital para ayudarte en el estudio, comprensión y práctica de los materiales expuestos en la obra. Puedes pedirle que te explique conceptos, ejercicios e incluso que te formule preguntas de repaso para que puedas comprobar tu nivel de conocimientos sobre un tema. Incluso podrás hacer simulacros de examen.
 
 Recuerda que en los chats con *Logic Tutor* las expresiones booleanas emplean las convenciones empleadas en Logisim. Así, el bot interpretará: 
-- **NOT** -> A'B (NOT A AND B), !A B (NOT A AND B), ~A B (NOT A AND B).
-- **AND** -> A B (A AND B), dependiendo del contexto incluso interpretará AB como A AND B.
-- **OR** -> A+B (A OR B).
-- **XOR** -> A^B (A XOR B).
+- **NOT** <- A'B (NOT A AND B), !A B (NOT A AND B), ~A B (NOT A AND B).
+- **AND** <- A B (A AND B), dependiendo del contexto incluso interpretará AB como A AND B.
+- **OR** <- A+B (A OR B).
+- **XOR** <- A^B (A XOR B).
 
 -----
 #### Fe de erratas
