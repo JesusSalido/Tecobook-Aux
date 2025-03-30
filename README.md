@@ -1,3 +1,4 @@
+# Material auxiliar del libro:
 # Lógica Digital y Tecnología de Computadores - Un enfoque práctico mediante simulación con Logisim
 (por Jesús Salido)
 
@@ -10,6 +11,10 @@ En este repositorio se han recopilado los circuitos de Logisim empleados durante
 De este modo, existen dos directorios del repositorio correspondientes a cada una de dichas obras. En cada uno de ellos el nombre de los ficheros indican los capítulos en los que se estudian y emplean los circuitos contenidos en el fichero. Cada fichero contiene un número variable de circuitos que pueden agruparse por una temática.
 
 -----
+#### Chatbot personalizado (GPT)
+- [**Logic Tutor**](https://chatgpt.com/g/g-67e8fed02ae48191b71e082de0295710-logic-tutor) es un tutor personalizado de lógica digital para ayudarte en el estudio, comprensión y práctica de los materiales expuestos en la obra.
+
+-----
 #### Fe de erratas
 En este mismo sitio se incluye la lista de errores detectados en las obras anteriores. Estas erratas se organizan en dos directorios en los que se incluyen la lista y las hojas que habría que sustituir en la obra.
 1. [Lógica Digital y Tecnología de Computadores - Un enfoque práctico mediante simulación con Logisim](./Erratas/Vol1/Fe%20de%20erratas-vol1.md).
@@ -20,10 +25,10 @@ Desde estas páginas se agradece a todas las personas que han remitido comentari
 -----
 #### Citación y contacto
 
-Si estos circuitos le resultan de utilidad considere la posibilidad de citar este repositorio con la información de citación disponible en zenodo.
+Si este material auxiliar te resultan de utilidad considera la posibilidad de citar este repositorio con la información de citación disponible en zenodo.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10828923.svg)](https://doi.org/10.5281/zenodo.10828923)
 
-Comunique cualquier asunto relacionado con este repositorio (comentarios, errores, incompatibilidades, mejoras, etc.) a:
+Puedes comunicar cualquier asunto relacionado con este repositorio (comentarios, errores, incompatibilidades, mejoras, etc.) a:
 
 `jesus.salido AT uclm.es`
 
