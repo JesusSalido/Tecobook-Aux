@@ -21,9 +21,12 @@ Recuerda que en los chats con *Logic Tutor* las expresiones booleanas emplean la
 - **XOR** <- A^B (A XOR B).
 
 > ##### Limitaciones
-> Logic Tutor puede no ser  capaz de analizar los diagramas lógicos complejos creados con Logism, ya que no ha sido entrenado para ello. Por desgracia, tampoco
-> podrá hacer la síntesis de circuitos en formato Logisim. Estas son limitaciones derivadas de la singularidad de Logisim. Si se desea realizar la síntesis de
+> Logic Tutor puede no ser  capaz de analizar correctamente los diagramas lógicos complejos creados con Logism,
+> ya que no ha sido entrenado para ello. Por desgracia, tampoco podrá hacer la síntesis de circuitos en formato
+> Logisim. Estas son limitaciones derivadas de la singularidad de Logisim. Si se desea realizar la síntesis de
 > circuitos asistida por Logic Tutor es recomendable solicitar el uso de formatos de salida estandarizados como VHDL.
+>
+> *Recuerda que las respuestas de los modelos GPT deben ser juzgadas con sentido crítico pues su veracidad no está asegurada al 100%.*
 
 -----
 #### Fe de erratas
