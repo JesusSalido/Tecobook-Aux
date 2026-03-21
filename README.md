@@ -4,7 +4,7 @@
 
 [<img src="./Portadas Teco Vol1-2.png" width="800" alt="Portada de Lógica Digital y Tecnología de Computadores">](https://ruidera.uclm.es/communities/4b0d46b6-7dc2-4812-b29d-091aa39a2974)
 
-En este repositorio se han recopilado los circuitos de Logisim empleados durante la elaboración de los manuales docentes:
+En este repositorio se han recopilado los circuitos de Logisim ([teoría](https://github.com/JesusSalido/Tecobook-Aux/tree/main/Teor%C3%ADa) - [problemas](https://github.com/JesusSalido/Tecobook-Aux/tree/main/Problemas)) empleados durante la elaboración de los manuales docentes:
 
 1. Lógica Digital y Tecnología de Computadores - Un enfoque práctico mediante simulación con Logisim. Eds. de la Universidad de Castilla-La Mancha, sep. 2023. ISBN: 978-84-9044-621-8. DOI: [10.18239/manuales\_2023.26.00](https://doi.org/10.18239/manuales_2023.26.00) (también en [Google Play Books](https://play.google.com/store/books/details/Jes%C3%BAs_Salido_Tercero_L%C3%B3gica_digital_y_tecnolog%C3%ADa_d?id=5DnVEAAAQBAJ)), y 
 2. Lógica Digital y Tecnología de Computadores - Un enfoque práctico mediante simulación con Logisim (vol. 2) - Problemas Resueltos. Eds. de la Universidad de Castilla-La Mancha, abr. 2024. ISBN: 978-84-9044-658-4. DOI: [10.18239/manuales\_2024.27.00](https://doi.org/10.18239/manuales_2024.27.00) (también en [Google Play Books](https://play.google.com/store/books/details/Jes%C3%BAs_Salido_Tercero_L%C3%B3gica_digital_y_tecnolog%C3%ADa_d?id=RBj_EAAAQBAJ)).
